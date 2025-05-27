@@ -8,8 +8,8 @@ A modern HR Performance Dashboard built with Next.js, React, and Bootstrap.
 
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
-   cd <repo name>
+   git clone https://github.com/RLNarasimham/FLAM-ASSGN-HR-DASHBOARD.git
+   cd flam-assgn-hr-dasgboard
 
 2. Install dependencies:
   npm install
